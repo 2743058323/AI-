@@ -1,0 +1,19 @@
+    # Python
+    __pycache__/
+    *.pyc
+    *.pyd
+    *.so
+    venv/
+    .venv/
+
+    # Streamlit
+    .streamlit/secrets.toml
+
+    # Wordcloud mask (if you kept it and don't want to share)
+    # speaker_mask.png
+    # logo.png
+
+    # Other OS/Editor files
+    .DS_Store
+    .vscode/
+    .idea/
